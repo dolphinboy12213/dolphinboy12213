@@ -2,7 +2,7 @@
 - 👀 I’m interested in epic projects, video games, and anything D&D related.
 - 🌱 I’m currently learning nothing really, just made this account to browse.
 - 💞️ I’m not really looking to collaborate
-- 📫 How to reach me: Email me at dolphinboy12213@gmail.com OR Discord me at Dolphinboi#7044
+- 📫 How to reach me: I don't know why you would, but you can mail me at dolphinboy12213@gmail.com OR ping me on Discord at Dolphinboi#7044
 
 <!---
 dolphinboy12213/dolphinboy12213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
