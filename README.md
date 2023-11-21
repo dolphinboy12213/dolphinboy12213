@@ -4,7 +4,7 @@
 - I don't know why you would, but you can email me at dolphinboy12213@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=dolphinboy12213)
+![](https://komarev.com/ghpvc/?username=dolphinboy12213&style=plastic&color=#f0fff0)
 
 <!---
 dolphinboy12213/dolphinboy12213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
