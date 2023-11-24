@@ -10,7 +10,9 @@
 
 
 
-[![GitHub stats?!?](https://github-readme-stats.vercel.app/api?username=dolphinboy12213&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats?!?](https://github-readme-stats.vercel.app/api?username=dolphinboy12213&theme=transparent&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 ![](https://komarev.com/ghpvc/?username=dolphinboy12213&style=plastic&color=65e8b4&label=People+who+said+hi:) 
 
 
