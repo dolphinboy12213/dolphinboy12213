@@ -9,7 +9,10 @@
 - I don't know why you would, but you can email me at dolphinboy12213@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=dolphinboy12213&style=plastic&color=65e8b4&label=People+who+said+hi:) [![GitHub stats?!?](https://github-readme-stats.vercel.app/api?username=dolphinboy12213)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats?!?](https://github-readme-stats.vercel.app/api?username=dolphinboy12213&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=dolphinboy12213&style=plastic&color=65e8b4&label=People+who+said+hi:) 
+
 
 <!---
 dolphinboy12213/dolphinboy12213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
