@@ -1,4 +1,9 @@
--  Hello traveler, I’m @dolphinboy12213
+<div id = "literally everything" align = center></div>
+
+
+
+
+- Hello traveler, I’m @dolphinboy12213
 - I’m interested in epic projects, video games, and anything D&D related.
 - I’m learning Python, WebDev, and Godot.
 - I don't know why you would, but you can email me at dolphinboy12213@gmail.com
