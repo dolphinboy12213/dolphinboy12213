@@ -10,6 +10,9 @@
 
 ![status](https://api.statusbadges.me/badge/status/666009900605898783?simple=true&style=plastic) ![playing](https://api.statusbadges.me/badge/playing/666009900605898783?style=plastic) ![vscode](https://api.statusbadges.me/badge/vscode/666009900605898783?style=plastic) ![spotify](https://api.statusbadges.me/badge/spotify/666009900605898783?style=plastic)
 
+From [statusbadges.me](https://statusbadges.me/)
+
+
 [![GitHub stats?!?](https://github-readme-stats.vercel.app/api?username=dolphinboy12213&theme=transparent&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
