@@ -12,8 +12,11 @@
 
 From [statusbadges.me](https://statusbadges.me/)
 
-
 [![GitHub stats?!?](https://github-readme-stats.vercel.app/api?username=dolphinboy12213&theme=transparent&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
+> [!NOTE]
+> The card above does not include my private contributions. For the record, pretty much all my contributions are private too lol. <br>
+> (It's a bunch of CS50 stuff for those wondering)
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=dolphinboy12213&style=plastic&color=65e8b4&label=People+who+said+hi:) 
